@@ -1,0 +1,18 @@
+# macOS junk
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (ignore real files)
+Data/Raw/
+Data/Processed/
+
+# Allow only placeholder docs inside Data folders
+!Data/*.txt
+!Data/*README*
+
+# Python cache
+__pycache__/
+*.pyc
+
