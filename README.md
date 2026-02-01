@@ -96,7 +96,7 @@ conda install numpy pandas scipy statsmodels matplotlib seaborn scikit-learn
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/<your-username>/CRC_Biomarkers_With_A_Machine_Learning_Workflow.git
+git clone https://github.com/Saneeya1402/CRC_Biomarkers_With_A_Machine_Learning_Workflow.git
 cd CRC_Biomarkers_With_A_Machine_Learning_Workflow
 ```
 
